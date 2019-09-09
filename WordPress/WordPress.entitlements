@@ -31,11 +31,11 @@
 	<string>$(TeamIdentifierPrefix)$(CFBundleIdentifier)</string>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.org.wordpress</string>
+		<string>group.io.bitrise.samples.wordpress</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>3TMU3BH3NK.org.wordpress</string>
+		<string>72SA8V3WYL.io.bitrise.samples.wordpress</string>
 	</array>
 </dict>
 </plist>
